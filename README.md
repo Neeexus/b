@@ -2,7 +2,7 @@
 ### 팀 구성
 >- 팀 명: 정29현
 >- 대 표: 빅데이터학과 윤성훈
->- 팀원: 빅데이터학과 정구현<br>   빅데이터학과 이우열</br>   빅데이터학과 길병헌
+>- 팀원: 빅데이터학과 정구현<br><\t>빅데이터학과 이우열</br><\t>빅데이터학과 길병헌
 ---
 ### 작품명: 형광측정 PCR 장치의 양성 판정 기준(Criteria for positive determination of fluorescence measurement PCR devices)
 ---
