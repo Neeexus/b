@@ -52,4 +52,4 @@ Positive criteria for fluorescence measurement PCR device
 
 ---
 ## 활용 방안 및 기대효과
->- 과제 내용의 결과와 같이, 1D Convolution Layer를 사용한 Neural Network로 Regression을 하여 농도 3개를 더 정확하게 구분할 수 있는 것을 확인하였다. 이는 Real-time PCR 기반 POCT 장비의 농도판정 기준이 이전 Log Threshold 방식보다 정확하다, 따라서 양성판단 기준도 더 정확하게 될 것이다. 현재는 적은 데이터의 양으로 진행하였으나 이후 데이터의 양이 증가한다면 발전 가능성이 농후하므로 이후 농도판정 기준뿐만이 아니라 양성 판정의 기준을 세워 실사용에 적용하는 것을 목표로 하여 이 연구를 계속해서 진행하겠다.
+> 과제 내용의 결과와 같이, 1D Convolution Layer를 사용한 Neural Network로 Regression을 하여 농도 3개를 더 정확하게 구분할 수 있는 것을 확인하였다. 이는 Real-time PCR 기반 POCT 장비의 농도판정 기준이 이전 Log Threshold 방식보다 정확하다, 따라서 양성판단 기준도 더 정확하게 될 것이다. 현재는 적은 데이터의 양으로 진행하였으나 이후 데이터의 양이 증가한다면 발전 가능성이 농후하므로 이후 농도판정 기준뿐만이 아니라 양성 판정의 기준을 세워 실사용에 적용하는 것을 목표로 하여 이 연구를 계속해서 진행하겠다.
