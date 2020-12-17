@@ -27,9 +27,8 @@ Positive criteria for fluorescence measurement PCR device
 ### 2. RealTime-PCR 실험
 
 - PCR Chip 제작
-
-- 각기 다른 3농도에 대한 Real-Time PCR 실험 및 모니터링
 ![chip.PNG](./imgs/chip.PNG) 
+- 각기 다른 3농도에 대한 Real-Time PCR 실험 및 모니터링
 ![silhum.PNG](./imgs/silhum.PNG)
 ---
 ### 3. RealTime-PCR 데이터 분석
