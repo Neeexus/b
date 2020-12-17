@@ -39,7 +39,10 @@ Positive criteria for fluorescence measurement PCR device
 ---
 
 ### 3. RealTime-PCR 데이터 분석
-    - PCR 기기들이 사용하는 Fixed-Threshold 방식 조사 및 적용
-    - DNN를 이용한 Ct값 검출(Ours)
-    - 위 두 방법을 비교
+
+- PCR 기기들이 사용하는 Fixed-Threshold 방식 조사 및 적용
+- DNN를 이용한 Ct값 검출(Ours)
+![ct.PNG](./imgs/ct.PNG)
+- 위 두 방법을 비교
+![chart.PNG](./imgs/chart.PNG)
     
