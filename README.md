@@ -1,7 +1,8 @@
-# 빅데이터 캡스톤 디자인
+## 빅데이터 캡스톤 디자인
 ---
-# 작품명
-## 형광측정 PCR 장치의 양성 판정 기준(Criteria for positive determination of fluorescence measurement PCR devices)
+## 작품명
+---
+### 형광측정 PCR 장치의 양성 판정 기준(Criteria for positive determination of fluorescence measurement PCR devices)
 
 
 
