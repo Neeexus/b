@@ -18,9 +18,9 @@ Positive criteria for fluorescence measurement PCR device
 ## 과제 진행 순서
 
 - RealTime-PCR 사전조사
-### 사용할 PCR 기기 광학구조 조사
+>- 사용할 PCR 기기 광학구조 조사
 ![light.PNG](./imgs/light.PNG)  
-### 사용할 PCR Chip 조사 및 확인
+>- 사용할 PCR Chip 조사 및 확인
 ![top.PNG](./imgs/top.PNG) 
 
 - RealTime-PCR 실험
